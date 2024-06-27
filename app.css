@@ -1,0 +1,73 @@
+.card-header-title {
+    color: aliceblue;
+}
+
+#p1btn {
+    color: aliceblue;
+    background-color: rgb(39, 179, 49);
+}
+
+#p2btn {
+    color: aliceblue;
+    background-color: rgb(29, 120, 163)
+}
+
+#rstbtn {
+    color: aliceblue;
+    background-color: rgb(228, 18, 18);
+}
+
+#p1btn:hover {
+    background-color: rgb(51, 122, 37);
+}
+
+#p2btn:hover {
+    background-color: rgb(14, 79, 109)
+}
+
+#rstbtn:hover {
+    background-color: rgb(163, 15, 15);
+}
+
+.winner {
+    color: rgb(39, 179, 49);
+}
+
+.loser {
+    color: rgb(228, 18, 18);
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+#background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+}
+
+.section,
+.card {
+    position: relative;
+    z-index: 1;
+}
