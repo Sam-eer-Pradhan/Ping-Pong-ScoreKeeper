@@ -37,5 +37,5 @@ Ping Pong ScoreKeeper is a web application for tracking scores during a ping pon
 
 ## Screenshots
 
-![Photo]()
+![Photo](https://github.com/Sam-eer-Pradhan/Ping-Pong-ScoreKeeper/blob/main/images/Screenshot.PNG)
 
