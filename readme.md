@@ -32,8 +32,8 @@ Ping Pong ScoreKeeper is a web application for tracking scores during a ping pon
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/ping-pong-scorekeeper.git
-   cd ping-pong-scorekeeper
+   git clone https://github.com/Sam-eer-Pradhan/Ping-Pong-ScoreKeeper.git
+   cd Ping-Pong-ScoreKeeper
 
 ## Screenshots
 
